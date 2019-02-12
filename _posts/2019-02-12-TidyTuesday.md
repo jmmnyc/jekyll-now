@@ -9,8 +9,9 @@ I've finally decided to take the plunge on #TidyTuesday.  For those new to the c
 
 The 2019-02-05 data set is centered around the House Pricing Index.  Although 3 data sets were provided I focused on the `state_hpi` data set.  I wanted to find out the trend between my current home state of New Jersey against the National (US) average.
 
+I created an annual average and then calculated the difference.  It seems the past couple of years have seen HPI in New Jersey fall compared to the National average.  Might be a good time to buy before the trend corrects itself!
 
-
+![TidyTuesday](https://github.com/jmmnyc/tidytuesday/blob/master/tidy_tuesday_20190205.png?raw=true)
 
 
 My code is below:
