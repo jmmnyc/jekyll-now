@@ -5,7 +5,7 @@ title: First time #TidyTuesday
 
 I'll keep this one short.  
 
-I've finally decided to take the plunge on #TidyTuesday.  For those new to the concept it is an project by the R4DS (R for Data Science) learning community for learners and practitioners to hone their R skills and more specifically the packages in the tidyverse (dplyr, tidyr, and ggplot to name a few).  If you would like to get a little more acquinted please visit their site [here](https://github.com/rfordatascience/tidytuesday).
+I've finally decided to take the plunge on #TidyTuesday.  For those new to the concept tidytuesday is a project by the R4DS (R for Data Science) learning community designed for learners and practitioners to hone their R skills, specifically the packages in the tidyverse (dplyr, tidyr, and ggplot to name a few).  If you would like to get a little more acquinted please visit their site [here](https://github.com/rfordatascience/tidytuesday).
 
 The 2019-02-05 data set is centered around the House Pricing Index.  Although 3 data sets were provided I focused on the `state_hpi` data set.  I wanted to find out the trend between my current home state of New Jersey against the National (US) average.
 
