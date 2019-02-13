@@ -11,7 +11,7 @@ The 2019-02-05 data set is centered around the House Pricing Index.  Although 3 
 
 I created an annual average and then calculated the difference.  It seems the past couple of years have seen HPI in New Jersey fall compared to the National average.  Might be a good time to buy before the trend corrects itself!
 
-![TidyTuesday](https://github.com/jmmnyc/tidytuesday/blob/master/tidy_tuesday_20190205.png?raw=true)
+![TidyTuesday](https://github.com/jmmnyc/tidytuesday/blob/master/Tidytuesday_2019_02_05.png)
 
 
 My code is below:
